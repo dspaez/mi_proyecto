@@ -4,3 +4,5 @@ Página web de práctica del club.
 HOBBIES: VIDEOJUEGOS Y PELICULAS
 
 Comida favorita: encebollado y pizza
+
+Editado desde GitHub
