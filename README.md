@@ -6,3 +6,5 @@ HOBBIES: VIDEOJUEGOS Y PELICULAS
 Comida favorita: encebollado y pizza
 
 Editado desde GitHub
+
+Editado desde mi computador
